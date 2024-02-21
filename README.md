@@ -1,3 +1,5 @@
+![Untitled](https://github.com/siddhesh-Mhatre/siddhesh-Mhatre/assets/80941193/62afcca8-fb13-4069-b2cb-b9a5dc8c90c6)
+
 # 💫 About Me:
  <br>I am Siddhesh Mhatre, an aspiring technologist currently pursuing a Master's in Information Technology. Passionate about machine learning and data analysis, I bring a blend of academic knowledge and practical experience gained through internships. My diverse project portfolio reflects my commitment to innovation and problem-solving. Eager to contribute to the ever-evolving world of technology. Connect with me to explore the exciting intersection of data, AI, and impactful applications.
 

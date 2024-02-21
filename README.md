@@ -1,50 +1,21 @@
-# Siddhesh Mhatre
+# 💫 About Me:
+ <br>I am Siddhesh Mhatre, an aspiring technologist currently pursuing a Master's in Information Technology. Passionate about machine learning and data analysis, I bring a blend of academic knowledge and practical experience gained through internships. My diverse project portfolio reflects my commitment to innovation and problem-solving. Eager to contribute to the ever-evolving world of technology. Connect with me to explore the exciting intersection of data, AI, and impactful applications.
 
-[GitHub](https://github.com/siddheshmhatre) | [LinkedIn](https://www.linkedin.com/in/siddhesh-mhatre) | [Email](mailto:siddeshmhatre1649@gmail.com) | +91-9892865762
 
-## Education
-- **Thakur College of Commerce and Science**
-  - Master Of Science In Information Technology, CGPA - 9.0/10
-  - Aug. 2022 – May 2024 (Present)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=siddhesh-Mhatre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-Mhatre&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-Mhatre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Annasaheb Vartak College of Arts, Commerce, Science**
-  - Bachelor Of Science In Information Technology, CGPA- 8.92/10
-  - Aug. 2019– May 2022
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siddhesh-Mhatre&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
-- **Maharashtra State Board Higher Secondary Education**
-  - XII Science - 59%
-  - Aug. 2017 – May 2019
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-## Experience
-### MACHINE LEARNING INTERNSHIP (Dec. 2023 – Present)
-- **Infogen Labs Inc India**
-  - Developed and implemented machine learning models for data analysis tasks.
-  - Completed self-paced projects in Python focusing on data preprocessing and basic machine learning models (e.g., regression, classification).
-  - Explored text processing techniques in Python (e.g., tokenization, stemming) to understand fundamental NLP concepts.
+---
+[![](https://visitcount.itsvg.in/api?id=siddhesh-Mhatre&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## Projects
-### Dog Skin Diseases Detection and Identification using CNN | Deep-Learning, Python (June 2023 – Sep 2023)
-- Developed an automated system for detecting and identifying various skin diseases in dogs using convolutional neural networks (CNNs) to analyze images of dog skin.
-- Curated a large dataset of labeled images of dog skin diseases and trained a CNN model to accurately classify images into different categories of skin diseases such as mange, Ringworm, and fleas.
-
-### ResuMatch - AI-Powered Resume Selection | NLP, Python, Random-forest, scikit-learn (Jan 2024)
-- Developed an innovative resume selection system using Machine Learning and Natural Language Processing techniques.
-- Utilized ML clustering algorithms to categorize resumes into job-specific clusters based on content similarity.
-- Implemented a keyword-based search functionality allowing HR to input job-specific keywords and efficiently filter resumes.
-
-### NeighbourConnect | ReactJS, GraphQL, MongoDB (Jan 2021 – Dec 2022)
-- Developed a messenger app enabling multiple users to share messages in real-time.
-- Implemented core GraphQL concepts such as schema definition, queries, and mutations.
-- Addressed challenges like authentication, authorization, and client-side caching.
-
-## Technical Skills
-- **Technology:** Python, pandas, HTML/CSS, MySQL, ReactJS, Figma
-- **Soft Skills:** Teamwork, Communication, Problem Solving, Time management.
-
-## Certificates
-- Databases and SQL for Data Science with Python ([Coursera](https://www.coursera.org))
-- Artificial Intelligence (Great Learning)
-
-## Achievements
-- **Publication: Springer Scopus (ICACI-2022)**
-  - Published paper titled "Dog Skin Diseases Detection and Identification Using Convolutional Neural Networks" (Authors: A. Upadhyay, S. Mhatre, P. Nadar) in Springer Scopus (ICACI-2022) on March 4, 2023
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
